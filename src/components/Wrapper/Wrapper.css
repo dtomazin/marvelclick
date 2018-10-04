@@ -1,0 +1,14 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('https://i.pinimg.com/474x/70/5f/c3/705fc3f1b091086bd28b832eee608d9e--marvel-comics-superheroes-marvel-villains.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+    
+  }
