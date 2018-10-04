@@ -70,14 +70,14 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="The World of Marvel Click game"
+          title="The World of Marvel Click Game"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
         <Title>
-         <h1>CLick on a character to record a score, but click the same character twice, your game is no more.</h1> 
+         <h1>Click on a character to record a score, but click the same character twice, your game is no more.</h1> 
         </Title>
 
         <Container>
