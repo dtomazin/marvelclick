@@ -1,14 +1,13 @@
 {
-  "main.css": "/marvelclick/static/css/main.9a1fba83.chunk.css",
-  "main.js": "/marvelclick/static/js/main.7f5807f2.chunk.js",
-  "main.js.map": "/marvelclick/static/js/main.7f5807f2.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/marvelclick/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/marvelclick/static/js/1.6105a37c.chunk.js.map",
+  "main.css": "/marvelclick/static/css/main.fcea308d.chunk.css",
+  "main.js": "/marvelclick/static/js/main.2bb30e7e.chunk.js",
+  "main.js.map": "/marvelclick/static/js/main.2bb30e7e.chunk.js.map",
+  "static/js/1.709840df.chunk.js": "/marvelclick/static/js/1.709840df.chunk.js",
+  "static/js/1.709840df.chunk.js.map": "/marvelclick/static/js/1.709840df.chunk.js.map",
   "runtime~main.js": "/marvelclick/static/js/runtime~main.8be61d72.js",
   "runtime~main.js.map": "/marvelclick/static/js/runtime~main.8be61d72.js.map",
-  "static/media/logo.svg": "/marvelclick/static/media/logo.5d5d9eef.svg",
-  "static/css/main.9a1fba83.chunk.css.map": "/marvelclick/static/css/main.9a1fba83.chunk.css.map",
+  "static/css/main.fcea308d.chunk.css.map": "/marvelclick/static/css/main.fcea308d.chunk.css.map",
   "index.html": "/marvelclick/index.html",
-  "precache-manifest.74b34acfc93502e0a3b13dda9cf00967.js": "/marvelclick/precache-manifest.74b34acfc93502e0a3b13dda9cf00967.js",
+  "precache-manifest.b3b00a42514d77e0d81c97055a65dc13.js": "/marvelclick/precache-manifest.b3b00a42514d77e0d81c97055a65dc13.js",
   "service-worker.js": "/marvelclick/service-worker.js"
 }
